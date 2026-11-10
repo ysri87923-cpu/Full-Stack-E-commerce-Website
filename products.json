@@ -1,0 +1,134 @@
+[
+  {
+    "id": "p1",
+    "name": "Everyday Canvas Backpack",
+    "category": "Accessories",
+    "price": 1299,
+    "oldPrice": 1599,
+    "rating": 4.8,
+    "badge": "Bestseller",
+    "description": "A lightweight everyday backpack with a roomy main compartment and clean minimal styling.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p2",
+    "name": "Studio Wireless Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "oldPrice": 2999,
+    "rating": 4.7,
+    "badge": "Popular",
+    "description": "Comfortable over-ear headphones for music, study sessions and everyday listening.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p3",
+    "name": "Classic Ceramic Mug Set",
+    "category": "Home",
+    "price": 799,
+    "oldPrice": 999,
+    "rating": 4.6,
+    "badge": "New",
+    "description": "A set of simple ceramic mugs designed for relaxed mornings and warm drinks.",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558f43a67?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p4",
+    "name": "Minimal Desk Lamp",
+    "category": "Home",
+    "price": 1499,
+    "oldPrice": 1799,
+    "rating": 4.5,
+    "badge": "",
+    "description": "A compact desk lamp that brings a warm, focused glow to your workspace.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p5",
+    "name": "Daily Runner Sneakers",
+    "category": "Fashion",
+    "price": 2199,
+    "oldPrice": 2699,
+    "rating": 4.8,
+    "badge": "Trending",
+    "description": "Versatile everyday sneakers with a cushioned feel and a clean silhouette.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p6",
+    "name": "Insulated Travel Bottle",
+    "category": "Accessories",
+    "price": 599,
+    "oldPrice": 749,
+    "rating": 4.4,
+    "badge": "",
+    "description": "A reusable bottle for keeping your favourite drink close throughout the day.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p7",
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "price": 3299,
+    "oldPrice": 3999,
+    "rating": 4.6,
+    "badge": "Popular",
+    "description": "A simple smartwatch-inspired fitness companion for everyday activity tracking.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p8",
+    "name": "Soft Knit Throw Blanket",
+    "category": "Home",
+    "price": 1799,
+    "oldPrice": 2199,
+    "rating": 4.9,
+    "badge": "Top rated",
+    "description": "A soft, cosy throw blanket for reading corners, sofas and quiet evenings.",
+    "image": "https://images.unsplash.com/photo-1600369671236-e74521d4b6ad?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p9",
+    "name": "Everyday Crossbody Bag",
+    "category": "Fashion",
+    "price": 999,
+    "oldPrice": 1299,
+    "rating": 4.5,
+    "badge": "",
+    "description": "A compact crossbody bag with space for your daily essentials.",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p10",
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1899,
+    "oldPrice": 2299,
+    "rating": 4.7,
+    "badge": "Bestseller",
+    "description": "A portable speaker for playlists at home, outdoors and while travelling.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p11",
+    "name": "Linen Cushion Cover",
+    "category": "Home",
+    "price": 449,
+    "oldPrice": 599,
+    "rating": 4.3,
+    "badge": "",
+    "description": "A simple textured cushion cover to refresh your living space.",
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "p12",
+    "name": "Classic Analog Watch",
+    "category": "Accessories",
+    "price": 2799,
+    "oldPrice": 3299,
+    "rating": 4.8,
+    "badge": "New",
+    "description": "A timeless everyday watch with a clean dial and versatile design.",
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=80"
+  }
+]
